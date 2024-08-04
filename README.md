@@ -23,7 +23,7 @@ To run this project, you only need a web browser.
 1. Clone this repository to your local machine:
 
    ```bash
-   git clone https://github.com/faheem-a1/Internship-3.git
+   git clone https://github.com/ahmed20455/Internship-Project-2.git
 
 2. Navigate to the project directory:
 3. Open the index.html file in your web browser to view the application.
